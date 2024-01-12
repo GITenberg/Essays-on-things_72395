@@ -1,0 +1,46 @@
+_repo: Essays-on-things_72395
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phelps, William Lyon
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '1907'
+    url: http://www.gutenberg.org/2009/agents/1907
+    wikipedia: https://en.wikipedia.org/wiki/William_Lyon_Phelps
+description: ''
+gutenberg_issued: '2023-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72395'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015000545536
+pgterms:marc905: 20230214073541phelps
+pgterms:marc906: '1930'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bThe Macmillan Company, $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Sunrise -- Molasses -- Resolutions when I come to be old -- English
+  and American humour -- A pair of socks -- An inspiring cemetery -- Ancient football
+  -- Rivers -- One day at a time -- City and country -- Age before beauty -- Church
+  unity -- Political history -- A room without a view -- Tea -- The weather -- War
+  -- Man and boy -- Ambition -- Birds and statesmen -- Russia before the revolution
+  -- The devil -- The Forsyte Saga -- Profession and practice -- London as a summer
+  resort -- What the man will wear -- Dreams -- Eating breakfast -- The mother tongue
+  -- Our South as cure for flu -- Going to church in Paris -- Optimism and pessimism
+  -- Translations -- Music of the spheres -- Dog books -- Going to Honolulu -- Hymns
+  -- Old-fashioned snobs -- A fair city -- Traditions -- Spooks -- Trial by jury --
+  Athletics -- A private library all your own -- The greatest common divisor -- The
+  great American game -- Ten sixty-six -- Going abroad the first time -- Spiritual
+  healing -- Superstition -- The importance of the earth -- What shall I think about?
+title: Essays on things
+url: http://www.gutenberg.org/ebooks/72395
